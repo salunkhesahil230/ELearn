@@ -1,1 +1,1 @@
-# ELearn
+Simple CRUD web app I made for a Python project
